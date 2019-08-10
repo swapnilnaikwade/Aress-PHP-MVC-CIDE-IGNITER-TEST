@@ -1,0 +1,218 @@
+/*Header*/
+.main-header,.main-header .container{
+	background: #fff;
+}
+.navbar {
+	background: #fff;
+	padding: 25px 0;
+}
+.navbar-header img {
+	margin-top: 16px;
+}
+.navbar-nav .active a,
+.navbar-nav .active a:hover,
+.navbar-nav .active a:focus{
+	color: #2ab4f5;
+	border-bottom-color: #2ab4f5;
+}
+.tableContent {
+    padding: 45px 297px;
+}
+.content {
+    padding: 0px 0px;
+    float: right;
+}
+h2, .h2 {
+    font-size: 40px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.navbar-nav li a{
+	color:#444;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 500;
+	margin: 0 5px;
+	border-bottom: 2px solid transparent;
+	padding: 10px 0;
+}
+.navbar-nav li a:hover{
+	color: #2ab4f5;
+	background: transparent;
+}
+.navbar-toggle, .icon-bar{
+	background: #2ab4f5;
+	border: 1px solid white;
+}
+
+.home-page h2{
+  text-align: center;
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.contact{
+  text-align: center;
+  margin-bottom: 15px;
+}
+/* slider */
+.slider {
+	border-top: solid 5px #5385c2;
+	}
+.slider .carousel-caption {
+	padding-bottom: 222px;
+}
+.slider .carousel-caption h1 {
+	font-size: 40px;
+	font-weight: 300px;
+}
+.slider .carousel-caption p{
+    margin-top: 36px;
+}
+/*Quick Contact*/
+.quick-contact .quick-contact-heading p:after {
+    content:"";
+	width:105px;
+	height:3px;
+	background:#e63e61;
+	position:absolute;
+	bottom:-15px;
+	left:50%;
+	margin-left:-55px;
+}
+.quick-contact .quick-contact-heading p {
+	font-size: 15px;
+	margin-top: 12px;
+	position: relative;
+	text-align:center;
+}
+.quick-contact-form {
+	margin-top: 45px;
+}
+.form-control {
+	border-radius: 30px;
+	height: 58px;
+	font-size: 14px;
+}
+.form-group input {
+	margin-bottom: 44px;
+	padding-left: 35px;
+	padding-top: 10px;
+}
+.form-group textarea {
+	margin-bottom: 45px;
+	padding-left: 35px;
+	padding-top: 20px;
+}
+.quick-contact .submit-btn {
+	text-align: center;
+}
+.quick-contact .btn-primary{
+	background: #e63e61;
+	border-color: #e63e61;
+}
+.quick-contact .btn{
+	border-radius: 25px;
+	height: 47px;
+	width: 200px;
+}
+.tableContent img {
+    vertical-align: middle;
+    height: 150px;
+    width: 150px;
+}
+/*Footer*/
+.footer {
+	
+	padding: 15px 0;
+	background: #FFF;
+}
+.footer .copyright p {
+	font-size: 14px;
+	text-align: center;
+	color: #9f9596;
+	margin: 0;
+}
+/*Login page*/
+.login {
+  width: 600px;
+  margin: 16px auto;
+  font-size: 16px;
+  color:red;
+}
+
+.login-header,
+.login p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.login-triangle {
+  width: 0;
+  margin-right: auto;
+  margin-left: auto;
+  border: 12px solid transparent;
+  border-bottom-color: rgb(15, 66, 107);
+}
+
+.login-header {
+  background: rgb(12, 77, 129);
+  padding: 20px;
+  font-size: 1.4em;
+  font-weight: normal;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.login-container {
+  background: #ebebeb;
+  padding: 12px;
+}
+
+.login p {
+  padding: 12px;
+}
+
+.login input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 16px;
+  outline: 0;
+  font-family: inherit;
+  font-size: 0.95em;
+}
+
+.login input[type="email"],
+.login input[type="password"] {
+  background: #fff;
+  border-color: #bbb;
+  color: #555;
+}
+
+.login input[type="email"]:focus,
+.login input[type="password"]:focus {
+  border-color: #888;
+}
+
+.login input[type="submit"] {
+  background: rgb(1, 29, 51);
+  border-color: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.login input[type="submit"]:hover {
+  background: #17c;
+}
+
+.login input[type="submit"]:focus {
+  border-color: #05a;
+}
+
+
+ 

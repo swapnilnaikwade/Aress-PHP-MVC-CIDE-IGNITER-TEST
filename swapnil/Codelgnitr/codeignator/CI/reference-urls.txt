@@ -1,0 +1,11 @@
+//Pagination Library
+https://www.codeigniter.com/user_guide/libraries/pagination.html?highlight=pagination#example
+https://www.guru99.com/codeigniter-pagination.html
+
+
+//File uploading class
+https://www.codeigniter.com/user_guide/libraries/file_uploading.html#creating-the-upload-form
+
+
+//Active Record Set - DB functions
+https://www.codeigniter.com/user_guide/database/query_builder.html?highlight=join%20query#CI_DB_query_builder::join
